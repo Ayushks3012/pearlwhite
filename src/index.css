@@ -1,11 +1,19 @@
 @import "tailwindcss";
 @config "../tailwind.config.js";
 
+*{
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: theme('fontFamily.body');
   background-color: theme('colors.alabaster');
   color: theme('colors.dark-lava');
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
