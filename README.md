@@ -1,9 +1,12 @@
-# Pearl White Engineering – Official Website
+# Pearl White Engineering – Official Business Website
 
-This is a real-world business website developed and deployed for Pearl White Engineering.
+A real-world business website developed and deployed for Pearl White Engineering.
 
 ## 🔗 Live Website
 https://www.pearlwhiteengg.com
+
+## 📌 Project Type
+Real-world client project
 
 ## 🛠 Tech Stack
 - React
@@ -13,10 +16,17 @@ https://www.pearlwhiteengg.com
 - JavaScript
 
 ## ✨ Features
-- Responsive design
-- Multi-page layout
-- Business-focused UI
-- Production deployment with custom domain
+- Responsive business website
+- Multi-page navigation
+- Clean UI for industrial services
+- Optimized for production deployment
 
-## 📦 Deployment
-Deployed on a live production environment with a custom domain.
+## 🚀 Deployment
+- Deployed with a custom domain
+- Production-ready build
+- Version controlled using Git and GitHub
+
+## 👨‍💻 My Role
+- Designed and developed the complete frontend
+- Implemented responsive layouts
+- Handled deployment and domain configuration
